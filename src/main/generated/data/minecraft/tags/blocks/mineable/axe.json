@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "allbs:processed_bamboo_planks",
+    "allbs:processed_birch_planks",
+    "allbs:processed_cherry_planks",
+    "allbs:processed_crimson_planks",
+    "allbs:processed_jungle_planks",
+    "allbs:processed_dark_oak_planks",
+    "allbs:processed_mangrove_planks",
+    "allbs:processed_oak_planks",
+    "allbs:processed_spruce_planks",
+    "allbs:processed_warped_planks"
+  ]
+}

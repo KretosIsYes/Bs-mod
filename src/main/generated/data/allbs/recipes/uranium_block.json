@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "U": {
+      "item": "allbs:uranium_ingot"
+    }
+  },
+  "pattern": [
+    "UUU",
+    "UUU",
+    "UUU"
+  ],
+  "result": {
+    "item": "allbs:uranium_block"
+  },
+  "show_notification": true
+}
