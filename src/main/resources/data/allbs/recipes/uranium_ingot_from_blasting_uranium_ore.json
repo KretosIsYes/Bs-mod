@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 300,
+  "experience": 2,
+  "group": "uranium_ingot",
+  "ingredient": {
+    "item": "allbs:uranium_ore"
+  },
+  "result": "allbs:raw_uranium"
+}

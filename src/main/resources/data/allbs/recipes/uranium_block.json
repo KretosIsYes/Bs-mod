@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "allbs:uranium_ingot"
+    }
+  },
+  "result": {
+    "item": "allbs:uranium_block"
+  }
+}

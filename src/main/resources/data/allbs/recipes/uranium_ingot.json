@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "uranium_ingot",
+  "ingredients": [
+    {
+      "item": "allbs:raw_uranium"
+    },
+    {
+      "item": "allbs:raw_uranium"
+    },
+    {
+      "item": "allbs:raw_uranium"
+    },
+    {
+      "item": "allbs:raw_uranium"
+    },
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item": "minecraft:diamond"
+    }
+  ],
+  "result": {
+    "item": "allbs:uranium_ingot"
+  }
+}
